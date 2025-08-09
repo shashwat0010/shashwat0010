@@ -15,7 +15,7 @@
 - 🔭 Currently building **full-stack & AI-powered apps**
 - 🤝 Looking to collaborate on **AI, RAG systems, and scalable backend projects**
 - ⚡ Fun fact: Built a CPU-only offline PDF outline extraction system in **Adobe India Hackathon**
-- 💬 Ask me about **LLM integration, realtime backend architectures, cloud deployments**
+- 💬 Ask me about **full-stack web development, real-time backend architectures, and cloud deployments**
 
 ---
 
@@ -68,7 +68,7 @@
 
 ## 🐍 Snake Game Contribution Graph
 <div align="center">
-  <img src="https://github.com/shashwat0010/shashwat0010/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
 ---
