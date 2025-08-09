@@ -64,7 +64,6 @@
 </p>
 
 ---
----
 
 ## 🐍 Snake Game Contribution Graph
 <div align="center">
@@ -76,9 +75,8 @@
 ## 🚀 Projects Showcase
 
 ### 1️⃣ Streamify — Real-Time Video Chat
-<p>
-  <img src="https://raw.githubusercontent.com/shashwat0010/shashwat0010/main/assets/streamify-demo1.png" alt="Streamify Chat" width="400"/>
-  <img src="assets/streamify-demo2.png" alt="Streamify Call" width="400"/>
+<p align="center">
+  <img src="assets/streamify-demo1.png" alt="Streamify Chat" width="400"/>
 </p>
 
 Full-stack realtime chat + video calling with friend management and online presence tracking.
@@ -90,9 +88,8 @@ Full-stack realtime chat + video calling with friend management and online prese
 ---
 
 ### 2️⃣ MedManage — Hospital Management System
-<p>
-  <img src="./assets/medmanage-demo1.png" alt="MedManage Dashboard" width="400"/>
-  <img src="./assets/medmanage-demo2.png" alt="MedManage Booking" width="400"/>
+<p align="center">
+  <img src="assets/medmanage-demo1.png" alt="MedManage Dashboard" width="400"/>
 </p>
 
 Hospital management system with AI chatbot support, optimized patient booking, and role-based access.
@@ -104,9 +101,8 @@ Hospital management system with AI chatbot support, optimized patient booking, a
 ---
 
 ### 3️⃣ Socially — Next.js Social Media Platform
-<p>
-  <img src="./assets/socially-demo1.png" alt="Socially Feed" width="400"/>
-  <img src="./assets/socially-demo2.png" alt="Socially Profile" width="400"/>
+<p align="center">
+  <img src="assets/socially-demo1.png" alt="Socially Feed" width="400"/>
 </p>
 
 A Next.js + PostgreSQL social platform with Clerk authentication and dynamic server components.
@@ -117,9 +113,8 @@ A Next.js + PostgreSQL social platform with Clerk authentication and dynamic ser
 ---
 
 ### 4️⃣ CBI Banking Gateway
-<p>
-  <img src="./assets/banking-demo1.png" alt="Banking App Dashboard" width="400"/>
-  <img src="./assets/banking-demo2.png" alt="Banking App Transactions" width="400"/>
+<p align="center">
+  <img src="assets/banking-demo1.png" alt="Banking App Dashboard" width="400"/>
 </p>
 
 Banking gateway app with Razorpay integration and real-time balance updates.
@@ -131,9 +126,8 @@ Banking gateway app with Razorpay integration and real-time balance updates.
 ---
 
 ### 5️⃣ Adobe India Hackathon — Offline PDF Outline Extractor
-<p>
-  <img src="./assets/adobe-demo1.png" alt="Adobe Hackathon App" width="400"/>
-  <img src="./assets/adobe-demo2.png" alt="PDF Outline Extraction" width="400"/>
+<p align="center">
+  <img src="assets/adobe-demo1.png" alt="Adobe Hackathon App" width="400"/>
 </p>
 
 Offline CPU-based PDF outline extraction system for low-resource environments.
@@ -152,5 +146,13 @@ Offline CPU-based PDF outline extraction system for low-resource environments.
 ---
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashwat0010&theme=dark&hide_border=false&layout=compact)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shashwat0010&show_icons=true&theme=dark)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashwat0010&theme=dark&hide_border=false&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shashwat0010&show_icons=true&theme=dark" alt="GitHub Stats"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=shashwat0010&style=flat-square&color=blue" alt="Profile Views"/>
+</div>
