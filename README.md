@@ -1,70 +1,107 @@
-#  Hi 👋, I'm Shashwat Tripathi
-*A passionate Software Engineer || ML Engineer from India*
-
-Email Me 👉 ✉ *devmehrotra@gmail.com* For Collaboration/Project or Anything Else. 😊😊
-
-- 🔭 *I’m currently working on:* Building Retrieval-Augmented Generation (RAG) system applications using LangChain.
-- 🌱 *I’m currently learning:* Advanced prompt engineering, vector databases and LLMOps for production-ready AI applications.
-- 👯 *I’m looking to collaborate on:* AI/ML research projects and scalable backend systems using Python or Node.js.
-- 🤔 *I’m looking for help with:* Improving performance and scalability in RAG systems, and integrating multi-modal capabilities.
-- 💬 *Ask me about:* LLM integration, real-time backend architectures, and cloud deployment.
-- 😄 *Pronouns:* He/Him
-- ⚡ *Fun fact:* I love building things that automate boring tasks — and I firmly believe that a good AI workflow is just modern-day magic!
-
-
-
-[![](https://visitcount.itsvg.in/api?id=alamimran613&icon=1&color=4)](https://visitcount.itsvg.in)
-
-<!-- Snake Game Repo View -->
+<!-- Title / Hero -->
+<h1 align="center">Hi 👋, I'm <span style="color:#7b68ee">Shashwat Tripathi</span></h1>
+<p align="center">
+  <em>Software Engineer • Full-Stack & AI enthusiast • Builder of scalable systems & realtime apps</em>
+</p>
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <!-- Contact & quick badges -->
+  <a href="mailto:tshashwat093@gmail.com">✉️ tshashwat093@gmail.com</a> ·
+  <a href="https://www.linkedin.com/in/shashwat-tripathi-83a156282">LinkedIn</a> ·
+  <a href="https://github.com/shashwat0010">GitHub</a>
 </div>
 
+---
 
+## 🔎 About me
+- 🎓 B.Tech — **Electronics & Communication Engineering** at **NIT Silchar** (CGPA: **7.72**). :contentReference[oaicite:1]{index=1}  
+- 🔭 Currently building **full-stack & AI-powered** apps — strong interest in RAG/LLM integrations and production systems. :contentReference[oaicite:2]{index=2}  
+- ⚡ Fun fact: led a team at Adobe India Hackathon building a CPU-only offline PDF outline extraction system. :contentReference[oaicite:3]{index=3}
 
-# 💻 Tech Stack:
+---
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Cloud Run](https://img.shields.io/badge/Cloud%20Run-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex%20AI-0F9D58?style=for-the-badge&logo=google-cloud&logoColor=white)
-![RESTful APIs](https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=api&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-%23F7931E?style=for-the-badge)
-![OS](https://img.shields.io/badge/Operating%20Systems-%23007ACC?style=for-the-badge)
-![Networking](https://img.shields.io/badge/Computer%20Networking-%230072C6?style=for-the-badge)
-![DSA](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-ffb703?style=for-the-badge)
+## 🛠️ Tech Stack
+**Languages:** C++, C, Python, JavaScript, TypeScript, MATLAB, HTML, CSS  
+**Frameworks / Tools:** React, Next.js, Node.js, Express, MongoDB, PostgreSQL, Prisma, FastAPI, JWT, Tailwind, Chakra UI, Docker, Git, Razorpay. :contentReference[oaicite:4]{index=4}
 
+<!-- Skill badges row (use shields.io on your actual README for real badges) -->
+<p>
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next" />
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongo" />
+</p>
 
-# 📊 GitHub Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmeh19&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
+---
 
+## 🚀 Selected Projects
+> Short, readable bullets with metrics where possible — link to live demos & repos.
 
-## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/alamimran613](https://www.linkedin.com/in/dev-mehrotra-3026601b/))
+### Streamify — Real-Time Video Chat (Live)  
+**What:** Full-stack real-time chat + video calling with friend management.  
+**Impact:** Deployed on Render; uses GetStream for feed/calls.  
+**Stack:** React, Node, MongoDB, Zustand, Tailwind.  
+🔗 https://streamify-chat-app-1.onrender.com/ · repo: `github.com/shashwat0010/streamify` :contentReference[oaicite:5]{index=5}
 
-### ✍ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### MedManage — Hospital Management (Internship)  
+**What:** MERN hospital management system with role-based access, AI chatbot for support, and optimized bookings.  
+**Impact:** Reduced unauthorized access incidents by **43%**; halved patient support response time; scaled booking concurrency 5×.  
+**Stack:** React, Node, Express, MongoDB, JWT, Chakra UI, WebSockets.  
+🔗 repo: https://github.com/jaiswaldev/Zee-Hospital-Management.git. :contentReference[oaicite:6]{index=6}
+
+### Socially — Social Media Platform  
+**What:** Next.js + PostgreSQL social platform with Clerk authentication and dynamic server components.  
+🔗 repo: https://github.com/shashwat0010/socially. :contentReference[oaicite:7]{index=7}
+
+### CBI Banking Application  
+**What:** Banking gateway with Razorpay integration and real-time balance updates; improved ops efficiency by **30%**.  
+🔗 repo: https://github.com/shashwat0010/banking-gateway-app. :contentReference[oaicite:8]{index=8}
+
+---
+
+## 🔬 Internship & Experience
+**Satyendra Nath Bose Research Intern — NIT Silchar**  
+- Built MedManage (MERN) with role-based auth, AI chatbot and websocket-powered booking. Metrics and tech above. :contentReference[oaicite:9]{index=9}
+
+---
+
+## 🏆 Achievements & Activities
+- Solved **600+** problems across LeetCode / GfG / Codeforces. :contentReference[oaicite:10]{index=10}  
+- Adobe India Hackathon: led project building fast CPU-only PDF outline extraction. :contentReference[oaicite:11]{index=11}  
+- Member, Coding Club, NIT Silchar — curated problem sets & learning resources. :contentReference[oaicite:12]{index=12}
+
+---
+
+## 📫 Reach out
+- ✉️ tshashwat093@gmail.com  
+- 📱 +91-83035-35593  
+- GitHub: https://github.com/shashwat0010 · LinkedIn: https://www.linkedin.com/in/shashwat-tripathi-83a156282. :contentReference[oaicite:13]{index=13}
+
+---
+
+## 📌 Quick wins to make this README pop
+1. **Add a short GIF demo** (5–10s) for Streamify & MedManage (show login → call or booking flow). Host in repo `assets/` and embed with `![demo](./assets/streamify-demo.gif)`.  
+2. **Pin the 3 best repos** on your GitHub profile: Streamify, MedManage, Socially. Prefer repos with README, demo, and live link.  
+3. **Add metrics to project READMEs**: deployments, response-time improvements, user/sample numbers, test badges (CI). Numbers stand out.  
+4. **Add a short “Projects timeline”** using a timeline image or SVG showing dates and impact for each major project.  
+5. **Use animated skill bars** or a small chart (SVG) to show your primary focus: Full-Stack (60%), Backend (20%), ML/AI (20%).  
+6. **Add a Contact / Hire me button** that opens an email template: `mailto:tshashwat093@gmail.com?subject=Opportunity%20for%20Shashwat`.  
+7. **Add GitHub Actions**: auto-generate demo GIFs/screenshots after deploys, and show a test/build passing badge.  
+8. **Add testimonials / recognitions** (if available) — even brief quotes from mentors or hackathon judges.  
+9. **Include LeetCode / CF stats badges** (dynamic) to showcase competitive activity.  
+10. **SEO / discoverability**: set the README first 2 lines to include “NIT Silchar”, “Full-Stack Developer”, and “Realtime apps” — helps recruiters scanning.
+
+---
+
+## ✅ What I delivered right now
+- A ready-to-use `README.md` (above) built from your resume content. Source: your uploaded CV. :contentReference[oaicite:14]{index=14}
+
+---
+
+If you want, I can:
+- ✍️ Convert this into a polished HTML personal landing page (single-file) with the same content.  
+- 🎨 Generate a demo GIF template (skeleton) you can record and drop into the repo.  
+- 🛠️ Create project-specific README templates (Streamify, MedManage, Socially) with badges, screenshots and a suggested folder structure.
+
+Which of the three would you like me to do next? (I can start with the landing page or the Streamify project README — your pick.)
