@@ -75,9 +75,6 @@
 ## 🚀 Projects Showcase
 
 ### 1️⃣ Streamify — Real-Time Video Chat
-<p align="center">
-  <img src="assets/streamify-demo1.png" alt="Streamify Chat" width="400"/>
-</p>
 
 Full-stack realtime chat + video calling with friend management and online presence tracking.
 
@@ -88,9 +85,7 @@ Full-stack realtime chat + video calling with friend management and online prese
 ---
 
 ### 2️⃣ MedManage — Hospital Management System
-<p align="center">
-  <img src="assets/medmanage-demo1.png" alt="MedManage Dashboard" width="400"/>
-</p>
+
 
 Hospital management system with AI chatbot support, optimized patient booking, and role-based access.
 
@@ -101,9 +96,6 @@ Hospital management system with AI chatbot support, optimized patient booking, a
 ---
 
 ### 3️⃣ Socially — Next.js Social Media Platform
-<p align="center">
-  <img src="assets/socially-demo1.png" alt="Socially Feed" width="400"/>
-</p>
 
 A Next.js + PostgreSQL social platform with Clerk authentication and dynamic server components.
 
@@ -113,9 +105,6 @@ A Next.js + PostgreSQL social platform with Clerk authentication and dynamic ser
 ---
 
 ### 4️⃣ CBI Banking Gateway
-<p align="center">
-  <img src="assets/banking-demo1.png" alt="Banking App Dashboard" width="400"/>
-</p>
 
 Banking gateway app with Razorpay integration and real-time balance updates.
 
@@ -126,9 +115,6 @@ Banking gateway app with Razorpay integration and real-time balance updates.
 ---
 
 ### 5️⃣ Adobe India Hackathon — Offline PDF Outline Extractor
-<p align="center">
-  <img src="assets/adobe-demo1.png" alt="Adobe Hackathon App" width="400"/>
-</p>
 
 Offline CPU-based PDF outline extraction system for low-resource environments.
 
