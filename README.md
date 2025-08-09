@@ -77,7 +77,7 @@
 
 ### 1️⃣ Streamify — Real-Time Video Chat
 <p>
-  <img src="assets/streamify-demo1.png" alt="Streamify Chat" width="400"/>
+  <img src="https://raw.githubusercontent.com/shashwat0010/shashwat0010/main/assets/streamify-demo1.png" alt="Streamify Chat" width="400"/>
   <img src="assets/streamify-demo2.png" alt="Streamify Call" width="400"/>
 </p>
 
